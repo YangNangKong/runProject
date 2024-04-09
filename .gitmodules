@@ -4,6 +4,3 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:YangNangKong/backend.git
-[submodule "flutter-base"]
-	path = flutter-base
-	url = https://github.com/ohMySunset/flutter-base
